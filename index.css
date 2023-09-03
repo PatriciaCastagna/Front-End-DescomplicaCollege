@@ -1,0 +1,53 @@
+
+
+section, footer{
+    margin: 40px;
+}
+
+h1{
+    font-size: 50px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+
+
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #303030;
+  
+
+}
+
+
+
+
+#apresentacao .figuras figure{
+
+    display: inline-block;
+
+}
+#apresentacao .videos{
+    display: inline-block;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #a9e28e;
+    text-shadow: 2px 2px 2px black;
+    
+}
+
+.carousel-caption p{
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+
+
+
+
